@@ -1,6 +1,5 @@
 import searchImages from "./api";
 import ImageList from "./components/ImageList";
-import ImageShow from "./components/ImageShow";
 import SearchBar from "./components/SearchBar";
 import { useState } from "react";
 
